@@ -1,0 +1,158 @@
+body {
+    background-color: #383838;
+  }
+  
+  h1 {
+    color: #ffffff;
+    width: 251px;
+    height: 37px;
+    margin-top: 48px;
+    margin-left: 32px;
+    font-family: Ubuntu;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36.77px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+  }
+  
+  .title-one {
+    margin-top: 50px;
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 34.47px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+  }
+  
+  .title-two {
+    margin-top: 50px;
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 34.47px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+  }
+  
+  .main {
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 32px;
+    margin-right: 32px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: #626262;
+    display: flex;
+  }
+  
+  .card-element {
+    margin-top: 50px;
+    margin-left: 90px;
+    border-radius: 15px;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-between;
+  }
+  
+  .card-one {
+    height: 181px;
+    width: 355px;
+    border-radius: 15px;
+    background-color: #8b8281;
+    box-shadow: 0px 4px 4px 0px #000040;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .card-two {
+    height: 181px;
+    width: 355px;
+    border-radius: 15px;
+    background-color: #8b8281;
+    box-shadow: 0px 4px 4px 0px #000040;
+    margin-top: 10px;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .button-element-one {
+    width: 168px;
+    height: 38px;
+    border-radius: 15px;
+    background: linear-gradient(90deg, #b5dc52 0%, #89e148 100%);
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18.38px;
+  }
+  
+  .button-element-two {
+    width: 168px;
+    height: 38px;
+    border-radius: 15px;
+    background: linear-gradient(90deg, #ff9595 0%, #ff4747 80%, #ff3838 100%);
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18.38px;
+  }
+  
+  .chart {
+    margin-top: 10px;
+    margin-left: 200px;
+    padding-left: 200px;
+  }
+  .heading {
+    font-family: Ubuntu;
+    font-size: 28px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #ffffff;
+    margin-left: 32px;
+  }
+  .secondary {
+    height: 400px;
+    width: 1400px;
+    margin-top: 50px;
+    margin-left: 32px;
+    border: 1px solid #9b9b9b;
+    display: grid; /* This makes the child elements display in a row */
+    justify-content: space-between; /* Optional: Adds space between the divs */
+    gap: 10px; /* Optional: Adds a gap between the two divs */
+  }
+  .transactions {
+    width: 738px;
+    height: 345px;
+    border: 1px solid #9b9b9b;
+    margin-bottom: 50px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+  .expenses {
+    width: 417px;
+    height: 345px;
+    margin-left: 32px;
+    margin-right: 32px;
+    border-radius: 15px;
+    background: #ffffff;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+  
